@@ -1,3 +1,8 @@
+#### Name: AYUSH DHYANI
+ - Place: Uttarakhand, India
+ - Bio: Front-end Developer
+ - GitHub: [Ayush Dhyani](https://github.com/AyushDhy18)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
